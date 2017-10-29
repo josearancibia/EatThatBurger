@@ -1,0 +1,26 @@
+{
+  "name": "eatdatburger",
+  "version": "1.0.0",
+  "description": "Burger Maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josearancibia/EatDatBurger.git"
+  },
+  "author": "Jose Arancibia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josearancibia/EatDatBurger/issues"
+  },
+  "homepage": "https://github.com/josearancibia/EatDatBurger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "handlebars": "^4.0.10",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  }
+}
